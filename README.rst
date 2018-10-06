@@ -1,4 +1,4 @@
-Translate Toolkit
+Translate Toolkit sync
 -----------------
 
 .. image:: https://img.shields.io/gitter/room/translate/pootle.svg?style=flat-square
